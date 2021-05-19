@@ -1,4 +1,4 @@
-//Works on Edge, but not Chrome
+//Works on Edge, but not Chrome (unless file is web-hosted)
 $('body').ready(function () {
     //Date information:
     var d = new Date();
